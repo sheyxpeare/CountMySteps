@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-94c79f60223ee7313f8d1316342ea12b30f4f3c3.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-115246acae929573e023f5b32a5c983714958dfe.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-0bb13ef0cffc90aa83d0d286fd73be8e5b9aeadf.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-12259f1ebeef2266aee153ab6e9dbee12259dce9.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-2ac4ec96da154b3ef02853344803e36a308e3803.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/library-2.4.0-8577576b841eb9de8d38ad9924c250af3a2d7a09.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-d14957dffe0276aa3ae34ed4fa7ae68c6278adfb.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-7b7f3f1079153fa405566b7d02ef73e6c305181f.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.4-096365cb14507d1092fd51b6f76bba9723479514.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-93b3077d34fc6b8ff9c4f04581988c614ac79df6.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-87dd0acf74d414c339dca8b60af5d2adee391e52.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.github.bmarrdev/android-DecoView-charting/v0.9.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8789983f820fedcffc25503047c111773ad09034">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-8cd2d559b78d1e74ca8b3bd8129243379d2b3877.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-340b5a9bad79f0b77a60da840d9db66a678f731a.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-5bf2c8932351b408b924e0741c4e897cc345b1da.jar" />
+    </item>
+    <item
+        jar="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/sheyda/Documents/sp16/Java/Final/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-c22c300a7adf44e981f19bd99b0a2ef4a05cf560.jar" />
+    </item>
+
+</items>
